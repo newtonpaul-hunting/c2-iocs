@@ -44,8 +44,3 @@ DeviceNetworkEvents
 | order by Timestamp desc
 ```
 
-## Source
-
-Entries are derived from active fingerprinting of internet-facing infrastructure using FOFA, Hunter.how, and proprietary scanning logic. Only entries with a confidence score of 5 or above are published.
-
-Detection methodology and confidence scoring: [newtonpaul.com](https://newtonpaul.com)
