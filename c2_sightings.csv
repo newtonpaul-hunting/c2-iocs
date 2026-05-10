@@ -1340,3 +1340,4 @@ IP,Framework,Port,Country,PublishedAt
 8.141.123.117,cobalt-strike,50001,CN,2026-05-10
 187.49.187.224,metasploit,3790,BR,2026-05-10
 107.172.252.244,cobalt-strike,60000,US,2026-05-10
+192.253.248.13,nexus-c2,443,SG,2026-05-10
