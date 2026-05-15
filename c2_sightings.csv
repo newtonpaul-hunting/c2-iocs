@@ -1447,3 +1447,4 @@ IP,Framework,Port,Country,PublishedAt
 104.18.2.157,cobalt-strike,80,US,2026-05-15
 2.27.29.65,adaptix,4321,GB,2026-05-15
 192.253.248.13,nexus-c2,80,SG,2026-05-15
+192.253.248.13,nexus-c2,8000,SG,2026-05-15
