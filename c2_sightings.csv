@@ -1443,8 +1443,6 @@ IP,Framework,Port,Country,PublishedAt
 36.140.28.132,cobalt-strike,50050,CN,2026-05-15
 35.212.196.29,cobalt-strike,50050,US,2026-05-15
 35.200.0.52,cobalt-strike,50050,JP,2026-05-15
-104.18.3.157,cobalt-strike,443,US,2026-05-15
-104.18.2.157,cobalt-strike,80,US,2026-05-15
 2.27.29.65,adaptix,4321,GB,2026-05-15
 192.253.248.13,nexus-c2,80,SG,2026-05-15
 192.253.248.13,nexus-c2,8000,SG,2026-05-15
